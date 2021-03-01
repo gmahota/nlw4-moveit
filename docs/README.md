@@ -3,7 +3,7 @@
 
 ```shell
   # Clone the repo
-  $ gitclone https://github.com/allanShady/nlw4-moveit.git
+  $ git clone https://github.com/allanShady/nlw4-moveit.git
   
   # Navigate to the source folder
   $ cd source
